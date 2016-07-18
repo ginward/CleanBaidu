@@ -1,3 +1,7 @@
+/*
+ *
+ */
+
 var ads_class_names=["cr-content", "content_right"]
 var ads_ID_names=["content_right","s_main"]
 
